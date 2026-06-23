@@ -1,0 +1,7 @@
+fraud-env/
+__pycache__/
+*.pyc
+model/
+*.pkl
+.env
+.DS_Store
